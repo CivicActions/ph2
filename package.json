@@ -18,7 +18,7 @@
   ],
   "dependencies": {
     "@axe-core/puppeteer": "^4.4.2",
-    "@axe-core/reporter-earl": "4.4.3-alpha.264",
+    "@axe-core/reporter-earl": "4.4.4",
     "@oclif/core": "^1",
     "@oclif/plugin-help": "^5",
     "@oclif/plugin-plugins": "^2.0.1",
